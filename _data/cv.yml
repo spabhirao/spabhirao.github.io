@@ -1,0 +1,130 @@
+cv:
+  name: Abhinandan S. Prasad
+  label: Assistant Professor, IIT Palakkad
+  email: abhinandansp@iitpkd.ac.in
+  phone: (+91) 9986996821
+  location: Palakkad, Kerala, India
+  image: prof_pic.jpg
+  summary: >
+    Computer-science researcher with 10+ years of industry and academic experience in
+    emerging cloud-networking technologies. My research employs mathematical and
+    machine-learning methods to solve systems problems across systems ML, algorithmic
+    game theory, the edge-space-cloud continuum, and 6G.
+
+  social_networks:
+    - network: GitHub
+      username: spabhirao
+
+  sections:
+    Education:
+      - institution: University of Göttingen, Germany
+        area: Computer Science
+        studyType: Ph.D.
+        start_date: 2015-06-01
+        end_date: 2018-06-01
+        highlights:
+          - "Thesis: Automated Resource Provisioning of Fairly Priced Resources."
+          - "Graduated magna cum laude (with great honors)."
+          - "Marie Skłodowska-Curie Early Stage Researcher (ESR) in the CleanSky ITN project."
+
+      - institution: International Institute of Information Technology Bangalore (IIIT-B), India
+        area: Computer Science
+        studyType: M.Tech
+        start_date: 2009-07-01
+        end_date: 2011-06-01
+        highlights:
+          - "Thesis: A Mechanism Design Approach to Resource Procurement in Cloud Computing."
+
+      - institution: The National Institute of Engineering (NIE), Mysuru, India
+        area: Computer Science
+        studyType: B.E.
+        start_date: 2002-09-01
+        end_date: 2006-06-01
+        highlights:
+          - "Project: Machine-Dependent Optimization for Intel StrongARM Processors."
+
+    Experience:
+      - company: IIT Palakkad, India
+        position: Assistant Professor
+        start_date: 2025-06-01
+        end_date: present
+      - company: IIT Ropar, India
+        position: Assistant Professor
+        start_date: 2023-08-01
+        end_date: 2025-06-01
+      - company: NIE Mysuru, India
+        position: Associate Professor
+        start_date: 2020-03-01
+        end_date: 2023-08-01
+      - company: NIE Mysuru, India
+        position: Assistant Professor
+        start_date: 2018-07-01
+        end_date: 2020-03-01
+      - company: CleanSky ITN, Germany
+        position: Early Stage Researcher (Marie Skłodowska-Curie)
+        start_date: 2015-06-01
+        end_date: 2018-06-01
+      - company: HCL Engineering and Research Services, Bangalore, India
+        position: Technical Lead
+        start_date: 2014-08-01
+        end_date: 2015-04-01
+        summary: Led the Wireless Management Systems (WMS) platform team.
+      - company: Alcatel-Lucent India, Bangalore
+        position: Lead Engineer
+        start_date: 2013-10-01
+        end_date: 2014-07-01
+        summary: Led the Wireless Management Systems (WMS) platform team.
+      - company: Motorola Mobility, Bangalore, India
+        position: Software Engineer
+        start_date: 2011-08-01
+        end_date: 2013-10-01
+        summary: Worked on the high-density, fully redundant Motorola BSR64000 CMTS / intelligent edge router.
+      - company: Software Paradigms India, Mysore
+        position: Trainee Software Engineer
+        start_date: 2008-09-01
+        end_date: 2009-04-01
+      - company: Intel India Technology, Bangalore
+        position: Application Developer
+        start_date: 2006-07-01
+        end_date: 2007-11-01
+
+    Research Visits:
+      - name: Norwegian University of Science and Technology (NTNU), Trondheim
+        summary: "Dept. of Information Security and Communication Technology (Aug–Oct 2017). Host: Prof. Yuming Jiang."
+      - name: Nokia Bell Labs, Stuttgart & Dublin
+        summary: "Autonomous Software Systems Research (Jan–Jun 2016). Host: Prof. Volker Hilt."
+
+    Grants:
+      - title: NVIDIA Hardware Grant for Digital Agriculture
+        date: 2022
+        awarder: NVIDIA
+      - title: Adobe Research Grant ($15,000) for Systems ML
+        date: 2021
+        awarder: Adobe
+      - title: "Fire Safety Audit (Co-PI)"
+        date: 2018
+        awarder: Board of Research in Nuclear Sciences (BRNS)
+
+    Honors and Awards:
+      - title: IBM Champion
+        date: 2023
+        awarder: IBM
+        summary: Recognized for three consecutive years (2021, 2022, 2023).
+      - title: Invited Special Issue (FGCS)
+        date: 2018
+        awarder: Future Generation Computer Systems
+        summary: "'Optimal Resource Configuration of Complex Services in the Cloud' invited to the special issue on mobile, hybrid, and heterogeneous clouds."
+      - title: Marie Skłodowska-Curie ITN Fellowship
+        date: 2015
+        awarder: European Commission
+      - title: Director's Merit List
+        date: 2010
+        awarder: IIIT Bangalore
+
+    Academic Service:
+      - name: Chair roles
+        summary: "HiPC SRS 2024 Co-chair; Proceedings Chair/Co-chair for CODS-COMAD 2022 and CCGrid 2023."
+      - name: Technical Program Committees
+        summary: "COMSNETS 2020–2024; ANTS 2021–2024."
+      - name: Journal reviewing
+        summary: "IEEE TCC, ACM TAAS, Elsevier Computer Communications, EURASIP JWCN, IEEE TNSM, IEEE Network Magazine, ETT, and Sādhanā."

@@ -1,0 +1,9 @@
+# Social media links and usernames. Displayed in the order defined here.
+cv_pdf: /assets/pdf/Abhinandan_Resume.pdf # path to your CV PDF file
+email: abhinandansp@iitpkd.ac.in
+scholar_userid: GbejLhIAAAAJ # Google Scholar ID
+orcid_id: # add your ORCID iD (format: 0000-0000-0000-0000) if you have one
+github_username: spabhirao
+linkedin_username: # add your LinkedIn vanity name if you have one
+dblp_url: # e.g. https://dblp.org/pid/XX/XXXX.html
+rss_icon: true
