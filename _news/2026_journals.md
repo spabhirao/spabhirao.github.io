@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Three journal papers appear in 2026: **IEEE TPDS** (characterizing FaaS workflows), **Elsevier JIII** (GreenEdge AI), and **IEEE IoT Journal** (Psych-Air). :tada:
+Our paper "Psych-Air: Predictive Smog Analytics for Psychotic Disorder Patients’ Risk Assessment in Smart Cities" accepted in **IEEE IoT Journal**
