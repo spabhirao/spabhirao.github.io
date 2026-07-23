@@ -2,12 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor, <a href='https://iitpkd.ac.in/'>IIT Palakkad</a> · Head, <strong>SUTRA</strong> Lab
+subtitle: Assistant Professor, <a href='https://iitpkd.ac.in/'>IIT Palakkad</a>  <strong>SUTRA</strong> Lab
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Mehta Family School of Data Science &amp; AI</p>
     <p>IIT Palakkad, Kerala 678623, India</p>
