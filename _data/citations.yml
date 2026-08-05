@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-05'
 papers:
   GbejLhIAAAAJ:2osOgNQ5qMEC:
     citations: 14
@@ -38,7 +38,7 @@ papers:
     title: 'OFM: An Online Fisher Market for Cloud Computing'
     year: '2019'
   GbejLhIAAAAJ:WF5omc3nYNoC:
-    citations: 2
+    citations: 3
     title: 'COUNSEL: Cloud Resource Configuration Management using Deep Reinforcement Learning'
     year: '2023'
   GbejLhIAAAAJ:Y0pCki6q_DkC:
