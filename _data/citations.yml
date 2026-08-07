@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-08-07'
 papers:
   GbejLhIAAAAJ:2osOgNQ5qMEC:
     citations: 14
@@ -50,7 +50,7 @@ papers:
     title: 'Amalgam: Distributed Network Control With Scalable Service Chaining'
     year: '2020'
   GbejLhIAAAAJ:_FxGoFyzp5QC:
-    citations: 12
+    citations: 13
     title: 'XFBench: A Cross-Cloud Benchmark Suite for Evaluating FaaS Workflow Platforms'
     year: '2024'
   GbejLhIAAAAJ:d1gkVwhDpl0C:
@@ -62,7 +62,7 @@ papers:
     title: Resource Procurement, Allocation, Metering, and Pricing in Cloud Computing
     year: '2017'
   GbejLhIAAAAJ:roLk4NBRz8UC:
-    citations: 0
+    citations: 1
     title: 'Characterizing FaaS Workflows on Public Clouds: The Good, the Bad and the Ugly'
     year: '2026'
   GbejLhIAAAAJ:u-x6o8ySG0sC:
