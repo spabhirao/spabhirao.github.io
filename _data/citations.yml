@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-14'
 papers:
   GbejLhIAAAAJ:2osOgNQ5qMEC:
     citations: 14
@@ -57,6 +57,10 @@ papers:
     citations: 97
     title: A combinatorial auction mechanism for multiple resource procurement in cloud computing
     year: '2012'
+  GbejLhIAAAAJ:hqOjcs7Dif8C:
+    citations: 0
+    title: On-Chain Heuristic Dynamic Swarm-based Bi-directional Stacked MLP Framework for Smart Industrial Pollution Mitigation
+    year: '2026'
   GbejLhIAAAAJ:qjMakFHDy7sC:
     citations: 3
     title: Resource Procurement, Allocation, Metering, and Pricing in Cloud Computing
